@@ -1,0 +1,29 @@
+@import "reset.css";
+body {
+  width: 700px;
+  margin: auto;
+  text-align: center;
+}
+article {
+  /* display:inline-block; */
+  /* height: 400px; */
+  position: relative;
+}
+.ok {
+  position: relative;
+}
+h1 {
+  font-size: 45px;
+}
+img {
+
+  /* margin: 10px 10px; */
+  position: absolute;
+  width: 250px;
+}
+h2 {
+  font-size: 35px;
+}
+p {
+  font-size: 20px;
+}
